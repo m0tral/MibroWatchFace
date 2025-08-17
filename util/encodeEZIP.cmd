@@ -1,0 +1,1 @@
+ezip -convert %1 -binfile 2 -outdir .
