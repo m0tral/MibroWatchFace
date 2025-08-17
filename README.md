@@ -9,3 +9,5 @@ Watch GS Pro
 
 I guess all last models too,  
 need to verify
+
+![](wf_50231_dynamic_energy_bg_ru.png)
